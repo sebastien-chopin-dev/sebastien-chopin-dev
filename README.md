@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sebastien-chopin-dev, lead dev at french R&D company, we build a b2b metaverse (3D, VR, collaborative)
-- 👀 I’m interested in full stack and real time 3D AR VR multi-platforme application development (Unity3D - Unreal - BabylonJS)
-- 🌱 I’m currently learning Vue JS with Quasar framework, typescript node JS dev, Laravel PHP to build robust backend 
-- 💞️ I’m looking to collaborate on Unity 3D package or JS/Typescript lib.
-- 📫 How to reach me , linkedin invitation.
+- 👋 Hi, I’m @sebastien-chopin-dev, lead dev and founder at french R&D company tridimotion (3D, VR, Fullstack web, machine learning)
+- 👀 I’m interested in AI development - full stack engeniering and real time 3D AR VR multi-platforme application (Python - Typescript - Next.js - Vue.js - Unity3D - ThreeJS)
+- 🌱 I’m currently building SaaS application with agentic flow (OCR, RAG, MCP, AWS Bedrock) for french legal usecase
+- 💞️ I’m looking to collaborate on Unity 3D package, JS/Typescript lib, Machine learning or deep learning project
+- 📫 How to reach me , linkedin invitation or https://www.tridimotion.com/contact
 
 <!---
 sebastien-chopin-dev/sebastien-chopin-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
